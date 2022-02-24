@@ -25,7 +25,7 @@ experience:
   - title: Associate Gameplay Programmer
     company: Tencent
     company_url: ''
-    company_logo: tencent.png
+    company_logo: ''
     location: Shanghai
     date_start: 'April, 2021'
     date_end: 'June, 2021'
