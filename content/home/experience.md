@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Shanghai
-    date_start: '2021-04'
-    date_end: '2021-06'
+    date_start: '2021-04-01'
+    date_end: '2021-06-01'
     description: |2-
         Responsibilities include:
         
