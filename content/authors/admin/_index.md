@@ -35,6 +35,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-TBD
+Hi everyone here, I am now MSCS student in NYU. My interests focus on Computer Graphics, Game Development and Artificial Intelligence.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
