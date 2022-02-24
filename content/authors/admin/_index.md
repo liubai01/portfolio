@@ -37,4 +37,4 @@ highlight_name: true
 ---
 Hi everyone here, I am now MSCS student in NYU. My interests focus on Computer Graphics, Game Development and Artificial Intelligence.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/yintao_s_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/yintao_s_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
