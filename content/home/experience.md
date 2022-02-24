@@ -32,6 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
+        * Engaged in development of AA TPS Game {{< staticref "https://www.syncedoffplanet.com/en/" "newtab" >}} Synced-Off planet {{< /staticref >}} in Unreal 4 Engine.
         * Used Perforce as version control system and Jenkins for CI/CD.
         * Designed texture caching algorithm to improve in-game 2k-resolution texture capturing performance.
         * Responsible for environment control logic, including lighting direction, global wind direction.
