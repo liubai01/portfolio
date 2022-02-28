@@ -14,7 +14,7 @@ links: []
 image:
   caption: Game Preview
   focal_point: Smart
-  filename: ciga2018.png
+  filename: ""
 url_code: ""
 ---
 **Language**: Chinese
