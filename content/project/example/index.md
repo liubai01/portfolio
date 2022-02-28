@@ -21,9 +21,8 @@ url_code: ""
 **Game Preview Video**:
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NFau0jQxJHA?start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840" height="472" src="https://www.youtube.com/embed/NFau0jQxJHA?start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-
 *If it is not avaliable, click [here](https://youtu.be/NFau0jQxJHA) to youtube.*
 
 **Language**: Chinese
