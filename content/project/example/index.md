@@ -4,7 +4,7 @@ url_pdf: ""
 summary: China IndiePlay Best Game Jam Game Nominate (top 10 nationwide), 2018.
   A local two-player game, jointly controls a single character, passes through
   the world of masterpieces. Completed in 48 hours.
-url_video: "www.google.com"
+url_video: ""
 date: 2022-02-28T19:26:06.413Z
 external_link: ""
 url_slides: ""
@@ -21,3 +21,7 @@ url_code: ""
 **Language**: Chinese
 
 **Download**: [Google Drive](https://drive.google.com/file/d/1V7rz7OnAjIWUznY1DvUHHqrKKonL1VAX/view?usp=sharing)
+
+Embedded video test:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Olee_z2zD1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
