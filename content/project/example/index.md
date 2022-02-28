@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: ""
 url_pdf: ""
 summary: A local two-player game, jointly controls a single character, passes
   through the world of masterpieces. Completed in 48 hours.
