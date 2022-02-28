@@ -1,6 +1,7 @@
 ---
 title: Yintao Xu
 role: MSCS Student @ Courant, NYU
+avatar_filename: avatar.jpg
 bio: A skier, geeker and a gamer :)
 interests:
   - Artificial Intelligence
