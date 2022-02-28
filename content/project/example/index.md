@@ -3,7 +3,7 @@ slides: ""
 url_pdf: ""
 summary: A local two-player game, jointly controls a single character, passes
   through the world of masterpieces. Completed in 48 hours.
-url_video: ""
+url_video: "www.google.com"
 date: 2022-02-28T19:26:06.413Z
 external_link: ""
 url_slides: ""
