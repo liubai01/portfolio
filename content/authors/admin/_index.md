@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: A skier, geeker and a gamer :)
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Game Development
+  - Computer Graphics
 social:
   - icon: envelope
     icon_pack: fas
