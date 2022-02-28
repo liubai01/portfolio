@@ -1,5 +1,5 @@
 ---
-title: "Towards Fast Adaptation of Neural Architectures with Meta Learningr"
+title: "Towards Fast Adaptation of Neural Architectures with Meta Learning"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
