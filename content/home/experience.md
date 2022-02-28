@@ -43,7 +43,7 @@ experience:
     company_logo: shanghaitech
     location: Shanghai
     date_start: '2019-09-01'
-    date_end: '2022-10-01'
+    date_end: '2020-10-01'
     description: |2-
         Responsibilities include:
         
