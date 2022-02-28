@@ -1,12 +1,18 @@
 ---
-title: "An example conference paper"
+title: "Towards Fast Adaptation of Neural Architectures with Meta Learningr"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Dongze Lian
+- Yin Zheng
 - admin
-- Robert Ford
+- Yanxiong Lu
+- Leyu Lin
+- Peilin Zhao
+- Junzhou Huang
+- Shenghua Gao
 
 # Author notes (optional)
 # author_notes:
