@@ -1,9 +1,14 @@
 ---
 slides: ""
 url_pdf: ""
-summary: China IndiePlay Best Game Jam Game Nominate (top 10 nationwide), 2018.
-  A local two-player game, jointly controls a single character, passes through
-  the world of masterpieces. Completed in 48 hours.
+summary: >-
+  * China IndiePlay Best Game Jam Game Nominate (top 10 nationwide), 2018. 
+
+  * Attend Weplay Expo 2019.
+
+  * A local two-player game. Players jointly control a single character, passing through the world of masterpieces. 
+
+  * Completed in 48 hours.
 url_video: ""
 date: 2022-02-28T19:26:06.413Z
 external_link: ""
@@ -13,7 +18,7 @@ tags:
   - GameDev
 links: []
 image:
-  caption: Game Preview
+  caption: Game E
   focal_point: Smart
   filename: ""
 url_code: ""
