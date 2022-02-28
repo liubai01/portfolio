@@ -30,6 +30,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi everyone here, I am now MSCS student in NYU. My interests focus on Computer Graphics, Game Development and Artificial Intelligence.
+Hi there, I am now MSCS student in NYU. 
+
+- Here is the place to display some of my demos and experience. It is still under construction. 
+- And I am now actively seeking for a job in US in 2022! 
+- If you would like to see my posts, go to https://blog.liubai01.cn .
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/yintao_s_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
