@@ -28,7 +28,7 @@ url_code: ""
 <p align="center">
 <iframe width="720" height="400" src="https://www.youtube.com/embed/NFau0jQxJHA?start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-If it is not avaliable, click [here](https://youtu.be/NFau0jQxJHA) to youtube.
+If it is not avaliable, click \[here](https://youtu.be/NFau0jQxJHA) to youtube.
 
 **Language**: Chinese
 
@@ -37,7 +37,8 @@ If it is not avaliable, click [here](https://youtu.be/NFau0jQxJHA) to youtube.
 **Award**: China IndiePlay Best Game Jam Game Nominate (top 10 nationwide), 2018
 
 This is the game we completed in 48 hours! 
-- **Gameplay**: Two players control one character at the same time.
-- **Art Design**: Post-Impressionism level with symphony constructs the unique game world.
+
+* **Gameplay**: Two players control one character at the same time.
+* **Art Design**: Post-Impressionism graphics with symphony BGM constructs the unique game world.
 
 **Remark**: That is basically the experimental game. So it is with limited level design to show core concept.
